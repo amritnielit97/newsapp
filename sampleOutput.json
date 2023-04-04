@@ -1,0 +1,72 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Sports Desk",
+      "title": "IND vs ZIM 2nd ODI Live Score Updates: Zimbabwe four down, Shardul Thakur picks two quick wickets - The Indian Express",
+      "description": "IND vs ZIM 2nd ODI Live Cricket Score Online, Sony Ten 1, Sony Ten 3 and Sony Six Live: India will take on Zimbabwe at Harare Sports Club, in Harare.",
+      "url": "https://indianexpress.com/article/sports/cricket/ind-vs-zim-2nd-odi-live-score-updates-india-aim-to-keep-up-the-ante-8100924/",
+      "urlToImage": "https://images.indianexpress.com/2022/08/2nd-ODI.jpeg",
+      "publishedAt": "2022-08-20T08:27:49Z",
+      "content": "Skipper Rahul needs game time; team new challenge in remaining ODIs\r\nSquads \r\nIndia: KL Rahul (Captain), Shikhar Dhawan (vice-captain), Ruturaj Gaikwad, Shubman Gill, Deepak Hooda, Rahul Tripathi, Is… [+472 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Lancet Warns About 'Tomato Flu' In India That Leaves Children With Red Blisters - NDTV",
+      "description": "The infection is called 'tomato flu' because of the red, painful blisters that appear on a patient's body and gradually enlarge to the size of a tomato.",
+      "url": "https://www.ndtv.com/india-news/lancet-warns-about-tomato-flu-in-india-that-leaves-children-with-red-blisters-3270690",
+      "urlToImage": "https://c.ndtvimg.com/n4udbrt8_blisters_625x300_30_July_18.jpg",
+      "publishedAt": "2022-08-20T08:12:28Z",
+      "content": "Cases of 'tomato flu' have been reported from Kerala and Odisha.\r\nDoctors have sounded an alarm over a new illness that is gaining a foothold in India. 'Tomato flu', as it is commonly called, is a ne… [+1753 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Telangana Today"
+      },
+      "author": "IANS",
+      "title": "NASA spots 13 regions on Moon for astronaut landing in 2024 - Telangana Today",
+      "description": "NASA spots 13 regions on Moon for astronaut landing in 2024",
+      "url": "https://telanganatoday.com/nasa-spots-13-regions-on-moon-for-astronaut-landing-in-2024",
+      "urlToImage": "https://cdn.telanganatoday.com/wp-content/uploads/2022/08/NASA-spots-13-regions-on-Moon-for-astronaut-landing-in-2024.jpg",
+      "publishedAt": "2022-08-20T07:45:19Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PINKVILLA"
+      },
+      "author": "Pinkvilla Desk",
+      "title": "Cuttputlli Trailer: Akshay Kumar as a cop chases a serial killer with team in Kasauli; Rakul Preet Singh joins - PINKVILLA",
+      "description": "The trailer of Cuttputlli is finally out and we get to see Akshay Kumar and Rakul Preet Singh in a gritty thriller. The film will release on Disney+Hotstar on September 2.",
+      "url": "https://www.pinkvilla.com/entertainment/news/cuttputlli-trailer-akshay-kumar-cop-chases-serial-killer-team-kasauli-rakul-preet-singh-joins-1179392",
+      "urlToImage": "https://www.pinkvilla.com/files/styles/fbimagesection/public/akshay_kumar_rakul_cuttputlli_trailer_social.jpg?itok=KI5D4cpk",
+      "publishedAt": "2022-08-20T07:40:15Z",
+      "content": "After dropping the intriguing teaser, makers of Akshay Kumar and Rakul Preet Singh starrer Cuttputlli took to social media to drop the trailer of the gritty thriller. In the trailer, Akshay is seen a… [+1498 chars]"
+    },
+
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Second-hand smoke 10th biggest risk factor for cancer: Lancet study - BusinessLine",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiiQFodHRwczovL3d3dy50aGVoaW5kdWJ1c2luZXNzbGluZS5jb20vYnVzaW5lc3MtdGVjaC9zZWNvbmQtaGFuZC1zbW9rZS0xMHRoLWJpZ2dlc3Qtcmlzay1mYWN0b3ItZm9yLWNhbmNlci1sYW5jZXQtc3R1ZHkvYXJ0aWNsZTY1NzkwMzk5LmVjZdIBjgFodHRwczovL3d3dy50aGVoaW5kdWJ1c2luZXNzbGluZS5jb20vYnVzaW5lc3MtdGVjaC9zZWNvbmQtaGFuZC1zbW9rZS0xMHRoLWJpZ2dlc3Qtcmlzay1mYWN0b3ItZm9yLWNhbmNlci1sYW5jZXQtc3R1ZHkvYXJ0aWNsZTY1NzkwMzk5LmVjZS9hbXAv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-08-20T07:23:34Z",
+      "content": null
+    }
+  ]
+}
